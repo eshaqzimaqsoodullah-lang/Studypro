@@ -1,0 +1,2 @@
+# Studypro
+English Pashto dictionary 
